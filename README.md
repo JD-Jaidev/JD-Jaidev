@@ -1,8 +1,8 @@
 ## 🖐️ Hi there, It's me Jaidev
 
-<img align="right" width="250" height="250" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="150" height="150" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-<u>**Education**</u> : Incoming undergraduate student **[feat : B.E. CSE AIML]**.
+<u>**Education**</u> : Incoming undergraduate student. **[feat : B.E. CSE AIML]**
 
 <u>**Goal**</u> : To engineer scalable AI solutions and contribute to the future of Machine Learning.
 
