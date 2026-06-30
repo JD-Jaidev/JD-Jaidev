@@ -10,7 +10,11 @@
 - 🤖 Aspiring AI Engineer exploring Machine Learning and Deep Learning.
 - 🔭 Here's my [portfolio]()
 - 🌱 I'm currently learning and Teaching DSA and Integrating AI to my workflow.
-
+---
+### 📫 Contact : 
+- LinkedIn: https://www.linkedin.com/in/jaidev-s/
+- Email: jaidevsjd.10@gmail.com
+---
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="python" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" alt="css" /> <img height="50" width="50" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png" alt="arduino" /> <img height="50" width="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c++" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" /> <img height="50" width="50" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow" />
 
