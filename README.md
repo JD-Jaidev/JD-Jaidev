@@ -8,7 +8,7 @@
 
 - 🎓 Student passionate about Artificial Intelligence.
 - 🤖 Aspiring AI Engineer exploring Machine Learning and Deep Learning.
-- 🔭 Here's my [portfolio](jaidev-s-portfolio.web.app)
+- 🔭 Here's my [portfolio](https://jaidev-s-portfolio.web.app/)
 - 🌱 I'm currently learning and Teaching DSA and Integrating AI to my workflow.
 ---
 ### 📫 Contact : 
