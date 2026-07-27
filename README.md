@@ -26,6 +26,11 @@
 
 ---
 
+### 💻 Laptop Specs : 
+<p align='center'> <img src="https://cdn.simpleicons.org/intel/0071C5" width="50" height="50" alt="Intel"> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50" height="50" alt="NVIDIA"> <img src="https://cdn.simpleicons.org/lenovo/E2231A" width="50" height="50" alt="Lenovo"> </p>
+
+---
+
 [![Jaidev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JD-Jaidev&bg_color=0d1117&color=ffffff&line=00c70d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
