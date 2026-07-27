@@ -13,7 +13,7 @@
 ---
 ### 📫 Contact : 
 - LinkedIn: https://www.linkedin.com/in/jaidev-s/
-- Email: jaidevsjd.10@gmail.com
+- Email: jaidevsjd.10@gmail.com 
 ---
 
 ### ⌨️ I code in
