@@ -30,8 +30,8 @@
 
 ---
 
-### 💻 Laptop Specs : 
-<p align='center'> <img src="https://cdn.simpleicons.org/intel/0071C5" width="50" height="50" hspace="5" alt="Intel"> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50" height="50" hspace="5" alt="NVIDIA"> <img src="https://cdn.simpleicons.org/lenovo/E2231A" width="50" height="50" hspace="5" alt="Lenovo"> </p>
+### 💻 Workspace Specs : 
+<p align='center'> <img src="https://cdn.simpleicons.org/intel/0071C5" width="50" height="50" hspace="5" alt="Intel"> <img src="https://cdn.simpleicons.org/amd/ED1C24" alt="AMD" width="50" height="50" hspace="5"> <img src="https://cdn.simpleicons.org/nvidia/76B900" width="50" height="50" hspace="5" alt="NVIDIA"> <img src="https://cdn.simpleicons.org/lenovo/E2231A" width="50" height="50" hspace="5" alt="Lenovo"> <img src="https://cdn.simpleicons.org/samsung/1428A7" alt="Samsung" width="50" height="50" hspace="5"> </p>
 
 ---
 
