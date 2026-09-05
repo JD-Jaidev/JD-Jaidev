@@ -35,9 +35,5 @@
 
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ### 📈 Leetcode Stats : 
 ![Jaidev's LeetCode Stats](https://leetcard.jacoblin.cool/Jaidev-S?theme=nord&font=Castoro)
